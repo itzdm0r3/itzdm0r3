@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzdm0r3
 - 👀 I’m interested in learning Web Design & Web Development.
-- 🌱 I’m currently learning HTML5/CSS3
+- 🌱 I’m currently learning HTML5/CSS3 and Monogame.
 - 💞️ I’m looking to collaborate on building and designing websites.
 - 📫 How to reach me: GitHub, Twitter, Gmail
 
